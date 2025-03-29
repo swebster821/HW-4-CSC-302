@@ -96,6 +96,8 @@ ggplot(cars93, aes(x = Price, y = Fuel.tank.capacity)) +
 
 # Original Code
 
+load("C:/Users/sonya/Downloads/preprint_growth.rda")
+
 library(ggplot2)
 install.packages("tidyverse")
 library(tidyverse)
